@@ -1,0 +1,6 @@
+linux-android-samsung-gts7l (0.0.0+git20231230044031.5d4e655.master+git20240107205640.11ed917.master+git20240108082434.39fb62a.halium) halium; urgency=medium
+
+  * Initial commit.
+
+ -- BUP-BIP-BOP <ratenkov13@ya.ru>  Mon, 08 Jan 2024 08:24:34 +0000
+
